@@ -1,0 +1,14 @@
+public class EjemploIF {
+
+public static void main(String args[]) {
+
+        if (true) {
+            System.out.println("primer Ejemplo de if");
+        }
+        if (true) {
+            System.out.println("Segundo ejemplo de IF");
+        }
+
+    }
+
+}
